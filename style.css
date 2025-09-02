@@ -1,0 +1,16 @@
+.headers{
+    text-align: center;
+    background-color: burlywood;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: whitesmoke;
+}
+.riachuelo{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(https://t3.ftcdn.net/jpg/02/65/81/86/360_F_265818696_SvOj8Zk4kwhn9SJZjF0w91FRm1DKqE19.jpg);
+}
